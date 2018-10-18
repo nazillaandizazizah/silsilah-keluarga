@@ -1,0 +1,28 @@
+body {
+  background-color: #3BACCA;
+  width: auto;
+  margin: auto;
+}
+
+h1{
+  font-size: 80px; color: #210B61;
+}
+.abc{
+  text-align: center;
+}
+
+#gambar {
+  width:500px;
+  text-align: center;
+}
+
+form input[name="user"] {
+  width: 200px;
+  height: 50px;
+}
+
+.buat a{
+  text-align: center;
+  color: black;
+}
+}
